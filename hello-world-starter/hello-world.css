@@ -1,0 +1,35 @@
+/* Hello World CSS */
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+body {
+  background: #FB927B;
+  font-size: 16px;
+  height: 100vh;
+  /* trick to make the "page" the full height */
+}
+
+p {
+  font-size: 2em;
+  color: #8C4AD9;
+}
+
+#sign-language-icon {
+  color: #EBC655;
+  font-size: 5em;
+}
+#hello-world-column1 {
+  background: #C2EB55 url("girl.jpg");
+  background-size: cover;
+  font-size: 16px;
+  height: 100vh;
+  ;
+}
+#hello-world-column2 {
+  background: #FB927B url("bridge_reflection.jpg");
+  background-size: cover;
+}
+#img {
+  height:300px;
+  width:400px;
+}
+
+.row {}
